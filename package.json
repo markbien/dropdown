@@ -1,0 +1,16 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "This is my project for The Odin Project's assignment: https://www.theodinproject.com/lessons/node-path-javascript-dynamic-user-interface-interactions#build-a-dropdown-menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.13.0"
+  }
+}
